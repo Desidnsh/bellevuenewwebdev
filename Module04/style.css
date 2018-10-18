@@ -7,6 +7,12 @@
 				font-family:'DancingScriptRegular';
 				color: red;
 				text-align: center;}
+
+p, * { 
+   font-family: 'PreciousRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+} 
 			
 body {
   background-image:url(https://images.unsplash.com/photo-1516617442634-75371039cb3a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6febeaaa69fd0cab717c6bab09776051&w=1000&q=80)
