@@ -1,0 +1,89 @@
+
+
+
+			
+
+* {
+				font-family: Arial, Verdana, Cursive;
+				color: red;
+				text-align: center;}
+			
+body {
+  background-image:url(https://images.unsplash.com/photo-1516617442634-75371039cb3a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6febeaaa69fd0cab717c6bab09776051&w=1000&q=80)
+}
+
+ body    {
+            width: 90%;
+			margin: 0 auto;}
+			
+      
+#content {
+				overflow: auto;}
+			
+      #nav, #feature, #footer {
+				margin: 1%;
+                }
+
+           
+		
+			
+        li {
+				display: inline;
+				padding: 0.5em;}
+			
+        #nav, #footer {
+				background-color: pink;
+				padding: 0.5em 0;
+                margin-bottom: 1em;
+}
+        #feature {
+				height: 10em;
+				margin-bottom: 1em;
+          background-color: magenta;}
+          
+          .article {
+				height: 10em;
+				margin-bottom: 1em;
+				
+}
+
+.column1  {
+  background-color:yellow;
+  width: 31.3%;
+  float: left;
+  margin: 1%;  
+}
+
+.column2  {
+  background-color:magenta;
+   width: 31.3%;
+  float: left;
+  margin: 1%;  
+}
+
+.column3  {
+  background-color:green;
+   width: 31.3%;
+  float: left;
+  margin: 1%;
+}
+ .column3 {
+				margin-right: 0%;
+			}
+
+
+               
+ #feature  {
+   background-color: #1E90FF;
+   background-image: url("https://assets-cdn.github.com/images/modules/open_graph/github-mark.png");
+                background-size:contain;
+                background-position: right;
+          background-repeat:no-repeat;}
+
+
+
+
+
+
+
+		
